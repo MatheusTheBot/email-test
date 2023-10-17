@@ -1,0 +1,32 @@
+.toolbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color:cadetblue;
+
+    height: 20px;
+    /* border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px; */
+    font-size: 16px;
+
+    padding:10px;
+}
+
+a {
+    padding-inline: 10px;
+}
+
+.toolbar input {
+    max-width: 400px;
+    height: 15px;
+    border-radius: 8px;
+    padding: 5px;
+    font-size: 16px;
+
+    flex: 1;
+    
+    text-align: center;
+    border: none;
+    background-color: #fff;
+}

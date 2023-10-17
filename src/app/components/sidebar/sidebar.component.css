@@ -1,0 +1,9 @@
+.sidebar {
+    background-color: cornflowerblue;
+    max-width: 500px;
+    min-width: 200px;
+
+    width: 0%;
+
+    height: 100%;
+}
